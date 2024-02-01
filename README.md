@@ -6,4 +6,10 @@
 ослы), а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
 
-![](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%201.jpg)
+![task 1](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%201.jpg)
+
+## Задание 2
+
+Создать директорию, переместить файл туда.
+
+![task 2](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%202.jpg)
