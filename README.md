@@ -72,3 +72,20 @@ sudo apt-get autoremove
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
+*Последовательность команд в терминале:*
+
+timur@PC:~$ wget https://dev.mysql.com/get/mysql-apt-config_0.8.26-1_all.deb
+
+timur@PC:~$ sudo dpkg -i mysql-apt-config_0.8.26-1_all.deb
+
+timur@PC:~$ sudo apt-get update
+
+timur@PC:~$ sudo apt-get install mysql-server
+
+timur@PC:~$ sudo apt-get install mysqlclient
+
+![task 3](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%203.jpg)
+
+## Задание 4
+
+Установить и удалить deb-пакет с помощью dpkg.
