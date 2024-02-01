@@ -13,3 +13,8 @@
 Создать директорию, переместить файл туда.
 
 ![task 2](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%202.jpg)
+
+## Задание 3
+
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
+
