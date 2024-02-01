@@ -18,3 +18,16 @@
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 
+*Последовательность команд в терминале:*
+
+timur@PC:~$ sudo apt-get update
+
+timur@PC:~$ sudo apt-get install mysql-server
+
+timur@PC:~$ sudo apt-get install mysqlclient
+
+![task 3](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%203.jpg)
+
+## Задание 4
+
+Установить и удалить deb-пакет с помощью dpkg.
