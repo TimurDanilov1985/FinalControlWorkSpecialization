@@ -37,6 +37,8 @@ timur@PC:~$ sudo apt-get install mysqlclient
 
 Установить и удалить deb-пакет с помощью dpkg.
 
+![task 4](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/task%204.jpg)
+
 ## Задание 5
 
 Выложить историю команд в терминале ubuntu
@@ -71,5 +73,7 @@ sudo apt-get autoremove
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
+
+![task 6](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/diagram.jpg)
 
 
