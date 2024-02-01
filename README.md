@@ -665,3 +665,6 @@ mysql> SELECT * FROM young_animals;
 5 rows in set (0,00 sec)
 
 mysql>
+
+![task 7 - 12](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/db.jpg)
+![task 7 - 12](https://github.com/TimurDanilov1985/FinalControlWorkSpecialization/blob/master/images/db1.jpg)
